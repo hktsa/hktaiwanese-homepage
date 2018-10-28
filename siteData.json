@@ -1,0 +1,10 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "留港臺灣學生會 Hong Kong Taiwanese Student Association",
+    "url": "http://www.hktaiwanese.com",
+    "sameAs": [
+      "http://www.facebook.com/hktsa.roc"
+    ],
+    "logo": "http://www.hktaiwanese.com/images/HKTSA_icon.jpg"
+}
